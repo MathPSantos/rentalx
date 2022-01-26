@@ -1,0 +1,3 @@
+const AUTH_KEY = "225639b3444e5150227e1f6b5d15f2a2";
+
+export { AUTH_KEY };
